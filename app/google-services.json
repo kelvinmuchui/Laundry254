@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "813015362838",
+    "firebase_url": "https://naiseme-975f0.firebaseio.com",
+    "project_id": "naiseme-975f0",
+    "storage_bucket": "naiseme-975f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813015362838:android:872d0ccbcc838ea87cb437",
+        "android_client_info": {
+          "package_name": "com.example.laundry254"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813015362838-tmt9qvfc2t7r8rofgvvmh8uoc99bcv6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laundry254",
+            "certificate_hash": "555dfec1b9f8c1d7cfa3cfe8b88e70e6771765b7"
+          }
+        },
+        {
+          "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2MP2-zwwlekEtKvtX4sRGAvsD50_pAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813015362838:android:48ee9da7cec23398",
+        "android_client_info": {
+          "package_name": "com.example.naiseme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813015362838-9ku3bphsg0j28csbt76euo23ar1q1ir4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naiseme",
+            "certificate_hash": "f3b56d983460bcbb396e99ce4449afb200daff04"
+          }
+        },
+        {
+          "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2MP2-zwwlekEtKvtX4sRGAvsD50_pAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813015362838:android:7e30428554087fa5",
+        "android_client_info": {
+          "package_name": "com.example.naisemekenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813015362838-rtls7r475b8qf834teiib92kd3tfpmur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naisemekenya",
+            "certificate_hash": "f3b56d983460bcbb396e99ce4449afb200daff04"
+          }
+        },
+        {
+          "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2MP2-zwwlekEtKvtX4sRGAvsD50_pAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813015362838:android:bd0389b9fd093e2d7cb437",
+        "android_client_info": {
+          "package_name": "com.fitzafful.gliveportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813015362838-ss3uabevedo39qpj1d4hem5mrd7vcfk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitzafful.gliveportal",
+            "certificate_hash": "555dfec1b9f8c1d7cfa3cfe8b88e70e6771765b7"
+          }
+        },
+        {
+          "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2MP2-zwwlekEtKvtX4sRGAvsD50_pAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813015362838-rpeb4un7pu65hh9on9fs37qfpn8bpdjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
